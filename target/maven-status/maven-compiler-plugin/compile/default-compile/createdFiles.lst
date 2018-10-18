@@ -1,0 +1,17 @@
+com\blisse\service\AirportMenu.class
+com\blisse\model\Flights.class
+com\blisse\model\Positions.class
+com\blisse\model\Plane.class
+com\blisse\repository\pilots\PilotsRepository.class
+com\blisse\repository\common\CrudRepository.class
+com\blisse\repository\plane\PlaneRepository.class
+com\blisse\AirportConfig.class
+com\blisse\repository\types\TypesRepository.class
+com\blisse\repository\common\GetRepository.class
+com\blisse\repository\positions\PositionsRepository.class
+com\blisse\model\Pilots.class
+com\blisse\model\Passengers.class
+com\blisse\model\Types.class
+com\blisse\HibernateMain.class
+com\blisse\repository\flights\FlightsRepository.class
+com\blisse\repository\passengers\PassengersRepository.class
